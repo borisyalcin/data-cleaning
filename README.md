@@ -10,6 +10,7 @@
 * Data is extracted from various sources, including CSV files, APIs, and databases. Python scripts are used to automate the extraction process, ensuring data is consistently retrieved and stored.
 
 #### Transformation: 
+* <a href="https://github.com/borisyalcin/data-cleaning/blob/main/ETLProject.sql">Please refer here for ETL SQL queries</a>
 * Extracted data undergoes cleaning and transformation processes to standardize formats, handle missing values, and create meaningful aggregations. SQL is utilized for complex data manipulation and normalization, while Python handles initial data cleaning and preparation.
 
 ![image](https://github.com/borisyalcin/data-cleaning/assets/155834534/e5bcace4-fac1-48b6-8da9-af8daf715b44)
