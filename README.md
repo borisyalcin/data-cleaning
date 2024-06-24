@@ -12,6 +12,8 @@ Data is extracted from various sources, including CSV files, APIs, and databases
 #### Transformation: 
 Extracted data undergoes cleaning and transformation processes to standardize formats, handle missing values, and create meaningful aggregations. SQL is utilized for complex data manipulation and normalization, while Python handles initial data cleaning and preparation.
 
+![image](https://github.com/borisyalcin/data-cleaning/assets/155834534/e5bcace4-fac1-48b6-8da9-af8daf715b44)
+
 #### Loading: 
 The transformed data is loaded into a relational database, designed for efficient querying and analysis. SQL is used to create and manage database schemas, ensuring data integrity and performance.
 
