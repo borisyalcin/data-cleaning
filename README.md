@@ -21,5 +21,6 @@
 #### Data Analysis: 
 * <a href="https://github.com/borisyalcin/data-cleaning/blob/main/.ipynb_checkpoints/Final_Notebook-checkpoint.ipynb">Please refer in here for Python queries for analysis</a>
 * With the cleaned and structured data in place, various analytical techniques are applied to uncover insights. Python, along with libraries such as Pandas, Matplotlib, and Seaborn, is used for data visualization and analysis. SQL queries are crafted to generate reports and summaries of game sales trends, genre performance, regional differences, and other critical metrics.
+![image](https://github.com/borisyalcin/data-cleaning/assets/155834534/7be0ea19-3877-4c4a-b5a8-dcfa58d6c21b)
 
 By combining the strengths of SQL for data management and Python for automation and analysis, this project provides a robust solution for handling and interpreting game sales data. The insights derived from this project can help stakeholders in the gaming industry make informed decisions based on comprehensive data analysis.
