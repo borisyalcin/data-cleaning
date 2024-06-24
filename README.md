@@ -1,4 +1,4 @@
-# ETL and Sales Analysis for Game-dev Endustry
+# ETL and Sales Analysis for Game-dev Industry
 
 ### Objective
 The objective of this ETL project is to efficiently extract, transform, and load (ETL) game sales data from multiple sources into a structured database, enabling comprehensive data analysis and reporting. This project aims to provide insights into game sales trends, performance metrics, and other key indicators to support data-driven decision-making in the gaming industry.
